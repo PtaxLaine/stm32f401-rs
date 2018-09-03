@@ -1,0 +1,9 @@
+[package]
+name = "stm32f401"
+version = "0.1.0"
+authors = ["Andrei V <andrei@ptaxa.net>"]
+
+[dependencies]
+cortex-m = "0.5.4"
+bare-metal = "0.2.3"
+vcell = "0.1.0"
